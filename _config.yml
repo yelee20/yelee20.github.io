@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Persiywon"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/ywon.jpg"
   bio              : "Hi"
   location         : "Hong Kong"
   email            :
