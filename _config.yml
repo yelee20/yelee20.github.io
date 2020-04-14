@@ -280,7 +280,7 @@ defaults:
       share: true
       related: true
 
--->>>>>>>>>>>>>>>>>>>>>I added this (yelee20)
+#>>>>>>>>>>>> I added this (yelee20)
 #_pages
 -scope:
    path: "_pages"
