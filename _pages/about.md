@@ -12,7 +12,7 @@ toc: true
 ---
 {% raw %} <img src="https://yelee20.github.io/assets/images/ywonn.JPG" alt=""> {% endraw %}
 
-* Name : Yeown Lee <br/>
+* Name : Yewon Lee <br/>
 * Incharge : Data and systems engineerning (School of Data Science), Bachelor of Engineering @ City University of Hong Kong<br/>
 
 ## Current Interest
