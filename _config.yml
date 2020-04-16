@@ -9,10 +9,10 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Centrarium
+title: Persiywon's Devlog
 subtitle: "A simple yet classy theme for your Jekyll website or blog"
-email: blcentra@gmail.com
-name: Ben Centra
+email: yelee2369@gmail.com
+name: Yewon Lee
 description: >
   A simple yet classy theme for your Jekyll website or blog.
 # Base URL of site (i.e. /blog). It should always start with a slash,
@@ -57,8 +57,8 @@ descriptions:
   - cat: jekyll
     desc: "Posts describing Jekyll setup techniques."
 
-  - cat: dummy
-    desc: "Just some placeholder posts, lorem ipsum and the rest."
+  - cat: Python
+    desc: "Python 3"
 
 # Social icons and sharing options
 #
@@ -92,8 +92,8 @@ social:
 
   - name: GitHub
     icon: github
-    username: bencentra
-    url: https://github.com/bencentra
+    username: persiywon
+    url: https://github.com/yelee20
     desc: Fork me on GitHub
     share: false
 
