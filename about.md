@@ -6,13 +6,24 @@ main_nav: true
 ---
 
 ![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture"){:.profile}
+![alt text]({{ site.baseurl }}/assets/profile_pic.jpg "Profile Picture"){:.profile}
 
-Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
+I am Yewon Lee (Persiywon)
 
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
+<p>Studying Data and systems engineering (School of Data Science) at City University of Hong Kong</p>
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
 
-[centrarium]: https://github.com/bencentra/centrarium
-[bencentra]: http://bencentra.com
-[jekyll]: https://github.com/jekyll/jekyll
+<h1>Contact</h1>
+
+<ul>
+  <li>Email: yelee2369@gmail.com</li>
+
+  <li>
+  
+  Git: [github.com/yelee20](http://github.com/yelee20)</li>
+  <li>
+  
+  Blog: [yelee20.github.io](http://yelee20.github.io)</li>
+
+
+</ul>
