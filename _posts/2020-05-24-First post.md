@@ -3,7 +3,7 @@ layout: post
 title:  "First Post"
 date:   2020-05-24T14:25:52-05:00
 author: Yewon Lee
-categories: Dummy
+categories: Schedule Maker
 ---
 ## Course Timetable Maker (1)
 
