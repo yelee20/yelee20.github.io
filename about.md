@@ -7,7 +7,7 @@ main_nav: true
 
 ![alt text]({{ site.baseurl }}/assets/profile_pic.jpg "Profile Picture"){:.profile}
 
-I am Yewon Lee (Persiywon)
+Yewon Lee
 
 <p>Studying Data and systems engineering (School of Data Science) at City University of Hong Kong</p>
 
