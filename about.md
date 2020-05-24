@@ -5,7 +5,6 @@ permalink: /about/
 main_nav: true
 ---
 
-![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture"){:.profile}
 ![alt text]({{ site.baseurl }}/assets/profile_pic.jpg "Profile Picture"){:.profile}
 
 I am Yewon Lee (Persiywon)
