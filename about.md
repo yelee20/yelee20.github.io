@@ -16,13 +16,8 @@ Yewon Lee
 
 <ul>
   <li>Email: yelee2369@gmail.com</li>
-
-  <li>
-  
-  Git: [github.com/yelee20](http://github.com/yelee20)</li>
-  <li>
-  
-  Blog: [yelee20.github.io](http://yelee20.github.io)</li>
+  <li>Git: <a href="#" title="http://github.com/yelee20">github.com/yelee20</a></li>
+  <li>Blog: <a href="#" title="http://yelee20.github.io">yelee20.github.io</a></li>
 
 
 </ul>
