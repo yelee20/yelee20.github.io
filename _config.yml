@@ -10,7 +10,7 @@ exclude:
 
 # Site settings
 title: Persiywon's Devlog
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
+subtitle: ""
 email: yelee2369@gmail.com
 name: Yewon Lee
 description: >
@@ -20,7 +20,7 @@ description: >
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
-cover: "/assets/header_image.jpg"
+cover: "/assets/hklight.jpg"
 logo: "/assets/logo.png"
 
 # Build settings
@@ -78,8 +78,8 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: TheBenCentra
-    url: https://twitter.com/TheBenCentra
+    username: ""
+    url: ""
     desc: Follow me on Twitter
     share: true
 
@@ -99,8 +99,8 @@ social:
 
   - name: LinkedIn
     icon: linkedin
-    username: Ben Centra
-    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
+    username: Yewon Lee
+    url: https://www.linkedin.com/in/yewon-lee/
     desc: Connect with me on LinkedIn
     share: true
 
@@ -120,7 +120,7 @@ social:
 
   - name: Instagram
     icon: instagram
-    username: ""
+    username: "yelee_20"
     url: ""
     desc: Follow me on Instagram
     share: false
