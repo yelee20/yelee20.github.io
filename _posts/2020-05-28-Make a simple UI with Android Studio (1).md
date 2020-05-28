@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Make a simple UI with Android Studio"
-date:   2020-05-24T14:25:52-05:00
+date:   2020-05-28T14:25:52-05:00
 author: Yewon Lee
 categories: Android_Studio
 ---
