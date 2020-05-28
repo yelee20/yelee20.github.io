@@ -19,7 +19,7 @@ There are four main steps:
 <li>Make the box size flexible</li>
 </ol>
 
-<p>Before directly In an Android app, the user interface(UI) is composed as an hierarchy of <i><b>layouts</b></i> (=ViewGroup objects) and <i><b>widgets</i></b> (=View objects).</p>
+In an Android app, the user interface(UI) is composed as an hierarchy of <i><b>layouts</b></i> (=ViewGroup objects) and <i><b>widgets</b></i> (=View objects).
 
 <ol>
 <li><b>Layouts/ViewGroup</b></li>
