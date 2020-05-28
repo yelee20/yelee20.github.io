@@ -5,15 +5,15 @@ date:   2020-05-24T14:25:52-05:00
 author: Yewon Lee
 categories: Schedule_Maker
 ---
-## Course Timetable Maker (1)
+## College Schedule Maker (1)
 
-I'll create a course timetable maker application.
+I'll create a college timetable maker.
 
 
 | Deadline | Things to do |   |   |   |
 |----------|--------------|---|---|---|
-| 6/1      | Planning     |   |   |   |
-| 6/       |              |   |   |   |
-| 6/       |              |   |   |   | 
+| 6/1      |              |   |   |   |
+| 6/8      |              |   |   |   |
+| 6/15     |              |   |   |   | 
 
 
