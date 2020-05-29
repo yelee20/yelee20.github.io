@@ -28,4 +28,19 @@ In an Android app, the user interface(UI) is composed as an hierarchy of <i><b>l
     -<i>UI components</i> (i.e. buttons and text boxes)
 </ol>
 
+<hr>
+<h3>(1) <u>Create a text box</u></h3>
+
+<hr>
+<h3>(2) <u>Create a button</u></h3>
+
+<hr>
+<h3>(3) <u>Change the UI string</u></h3>
+
+<hr>
+<h3>(4) <u>Make the box size flexible</u></h3>
+
+<hr>
+
+
 
