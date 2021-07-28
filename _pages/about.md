@@ -9,25 +9,25 @@ author_profile: true
 <span style="color:lightslategray"> Welcome to **Persywon's Development Log** </span>
 <br/><br/>
 
-## 👩‍💻 Profile
+## Profile
 ---
-<!-- {% raw %} <img src="https://ohjinjin.github.io/assets/images/ohjinjin.JPG" alt=""> {% endraw %} -->
+{% raw %} <img src="../assets/images/palette.png" alt=""> {% endraw %}
 
 * Name : Yewon Lee<br/>
 * Incharge : Data and Systems Engineering, Schoole of Data Science @ City Univeristy of Hong Kong<br/>
 
-## 💡 Current Interest
+## Current Interest
 ---
 * Artifitial Intelligence<br/>
 * Machine Learning<br/>
 * Backend <br/>
 
-## 📃 Career & Activities
+## Career & Activities
 ---
 * <pre>2021.07 ~ Current</pre> IT team leader @ CityU HK HSBC Prosperity Hall<br/>
 * <pre>2021.05 ~ Current</pre> Backend Developer @ Vandalsoft<br/>
 
-## 🔗 Contact
+## Contact
 ---
 * Email : yelee2369@gmail.com<br/>
 * Git : [github.com/yelee20](github.com/yelee20)<br/>
