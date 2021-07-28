@@ -4,12 +4,6 @@ layout: archive
 
 {{ content }}
 
-<div>
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fyelee20.github.io%2Fhit-counter&count_bg=%23606753&title_bg=%236258EA&icon=tapas.svg&icon_color=%23FFFFFF&title=WELCOME&edge_flat=false"/>
-  </a>
-</div>
-
 <ul class="taxonomy__index">
   {% assign postsInYear = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
   {% for year in postsInYear %}
@@ -20,12 +14,6 @@ layout: archive
     </li>
   {% endfor %}
 </ul>
-
-<div>
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fyelee20.github.io%2Fhit-counter&count_bg=%23606753&title_bg=%236258EA&icon=tapas.svg&icon_color=%23FFFFFF&title=WELCOME&edge_flat=false"/>
-  </a>
-</div>
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 {% assign postsByYear = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
@@ -40,9 +28,3 @@ layout: archive
     <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
   </section>
 {% endfor %}
-
-<div>
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fyelee20.github.io%2Fhit-counter&count_bg=%23606753&title_bg=%236258EA&icon=tapas.svg&icon_color=%23FFFFFF&title=WELCOME&edge_flat=false"/>
-  </a>
-</div>
