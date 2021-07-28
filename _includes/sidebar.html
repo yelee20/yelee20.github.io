@@ -3,6 +3,15 @@
   {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
   {% if page.sidebar %}
     {% for s in page.sidebar %}
+    <!-- hits 조회수 begin -->
+    <div style="text-align: center;">
+      <a href="http://hits.dwyl.com/khw11044.github.io" target="_blank">
+        <img
+          src="http://hits.dwyl.com/khw11044githubio.svg">
+      </a>
+    </div>
+    <!-- hits 조회수 end -->
+
       {% if s.image %}
         <img src="{{ s.image | relative_url }}"
              alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
