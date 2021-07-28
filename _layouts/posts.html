@@ -4,6 +4,14 @@ layout: archive
 
 {{ content }}
 
+
+<!-- hits 조회수 -->
+<div style="text-align: center;">
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fyelee20.github.io%2Fhit-counter&count_bg=%23606753&title_bg=%236258EA&icon=tapas.svg&icon_color=%23FFFFFF&title=WELCOME&edge_flat=false"/>
+  </a>
+</div> 
+
 <ul class="taxonomy__index">
   {% assign postsInYear = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
   {% for year in postsInYear %}
