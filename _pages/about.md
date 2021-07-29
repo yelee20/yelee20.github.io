@@ -11,7 +11,9 @@ author_profile: true
 
 ## Profile
 ---
-{% raw %} <img src="../assets/images/palette.png" alt=""> {% endraw %}
+<center><img src="../assets/images/palette.png" alt="" width = "50%" height = "50%"></center>
+
+<br>
 
 * Name : Yewon Lee<br/>
 * Incharge : Data and Systems Engineering, Schoole of Data Science @ City Univeristy of Hong Kong<br/>
