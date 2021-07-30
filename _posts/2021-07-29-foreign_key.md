@@ -1,5 +1,5 @@
 ---
-title: "[MySQL] How to delete foreign key"
+title: "[MySQL] How to Drop foreign key"
 categories:
 - MySQL
 last_modified_at: 2021-07-28T14:00:00+09:00
@@ -29,6 +29,7 @@ and I got an error as below:
 
 <br>
 Reference:
+
 [https://stackoverflow.com/questions/25079645/cant-drop-foreign-key-in-mysql](https://stackoverflow.com/questions/25079645/cant-drop-foreign-key-in-mysql)
 
 Any advice and suggestions are welcome and appreciated!
