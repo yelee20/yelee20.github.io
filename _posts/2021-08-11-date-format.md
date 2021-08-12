@@ -26,36 +26,60 @@ Frequently used date formats:
 
 <br>
 
-1. [**August 11 2021**] 
+### 1. [**August 11 2021**] 
+<br>
+
 ~~~sql
 SELECT DATE_FORMAT(NOW(), '%M %d %Y');
 -- Result: August 11 2021
 ~~~
-2. [**2021/08/11**] 
+<br>
+
+### 2. [**2021/08/11**] 
+<br>
+
 ~~~sql
 SELECT DATE_FORMAT(NOW(),'%Y-%m-%d');
 -- Result: 2021-08-11
 ~~~
-3. [**2021-08-11 12:00 AM**]    
+<br>
+
+### 3. [**2021-08-11 12:00 AM**]    
+<br>
+
 ~~~sql
 SELECT DATE_FORMAT(NOW(), '%Y-%m-%d %h:%i %p');
 -- Result: 2021-08-11 12:00 AM
 ~~~
-4. [**2021.08.11**] 
+<br>
+
+### 4. [**2021.08.11**] 
+<br>
+
 ~~~sql
 SELECT DATE_FORMAT(NOW(),'%Y.%m.%d');
 -- Result: 2021.08.11
 ~~~
-5. [**2021.08.11**] 
+<br>
+
+### 5. [**2021.08.11**] 
+<br>
+
 ~~~sql
 SELECT DATE_FORMAT(NOW(),'%Y.%m.%d');
 -- Result: 2021.08.11
 ~~~
-6. [**Wednesday August 2021**] 
+<br>
+
+### 6. [**Wednesday August 2021**] 
+<br>
+
 ~~~sql
 SELECT DATE_FORMAT(NOW(), '%W %M %Y');
 -- Result: Wednesday August 2021
 ~~~
+<br>
+
 
 
 Reference:
