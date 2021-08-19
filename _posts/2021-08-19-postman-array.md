@@ -1,3 +1,11 @@
+---
+title: "[Postman] Send an array as form-data"
+categories:
+- Tools
+last_modified_at: 2021-08-19T14:00:00+09:00
+toc: true
+---
+
 ## [Postman] Send an array as form-data
 💭 What is Postman?
 - 🧐 Postman is an application used for **API testing**. You can test various types of HTTP requests (POST, GET, PUT, PATCH, DELETE) . Please refer to [Postman official website](https://www.postman.com/) for more details.
