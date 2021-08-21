@@ -7,6 +7,7 @@ toc: true
 ---
 
 ## [Postman] Send an array as form-data
+<br>
 💭 What is Postman?
 - 🧐 Postman is an application used for **API testing**. You can test various types of HTTP requests (POST, GET, PUT, PATCH, DELETE) . Please refer to [Postman official website](https://www.postman.com/) for more details.
 <br>
